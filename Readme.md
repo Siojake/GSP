@@ -1,1 +1,6 @@
-This is repgitory for stl files of GSP 
+# This is repgitory for stl files of GSP 
+
+## Slide
+
+## Magazine
+
